@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+
+# IDE / OS
+.DS_Store
+.ipynb_checkpoints/
+
+# Generated results
+results/
+
+# FastQC / other temp stuff (if any future)
+*.html
+*.zip
+*.fastq
+data/test_ref.fa*

@@ -1,0 +1,5 @@
+##fileformat=VCFv4.2
+##source=acmg-lite-test
+#CHROM  POS     ID      REF     ALT     QUAL    FILTER  INFO
+chr1    1000    .       A       G       .       PASS    GENE=GENE1;GNOMAD_AF=0.10
+chr1    2000    .       C       T       .       PASS    GENE=GENE2;GNOMAD_AF=0.0001
