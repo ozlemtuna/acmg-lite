@@ -98,7 +98,7 @@ Variant: chr1:2000 C>T (gene=GENE2, af=0.0001)
 
 ---
 
-## 🔧 Installation  
+## Installation  
 
 ```bash
 git clone https://github.com/ozlemtuna/acmg-lite.git
