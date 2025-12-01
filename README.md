@@ -8,7 +8,7 @@ This lightweight project is ideal for learning, teaching, and building custom ge
 
 ---
 
-## 🚀 Features
+##  Features
 
 ### 1) FASTQ → BAM → VCF Pipeline  
 Implemented in `acmg_lite/pipeline_fastq.py` using:
